@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(236, 234, 234);
+
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+header h3 {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    color: gray;
+}
+
+section {
+    background-color: white;
+    padding-bottom: 20px;
+    width: 1280px;
+    margin: auto;
+    padding-left: 30px;
+}
+
+.foto { 
+    padding-top: 20px;
+    text-align: center;
+}
+
+.texto_foto {
+    padding-top: 15px;
+    font-size: 17px;
+}
+
+main {
+    color: rgb(73, 70, 70);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.text {
+    padding-top: 55px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.timeline {
+    padding-top: 45px;
+    width: 600px;
+
+    
+}
+
+.timeline li {
+    padding-top: 20px;
+    line-height: 23px;
+}
+
+main p {
+    padding-top: 30px;
+    line-height: 23px;
+    text-align: justify;
+    
+}
+
+.recomendacao {
+    font-weight: bolder;
+    font-size: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+main a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
